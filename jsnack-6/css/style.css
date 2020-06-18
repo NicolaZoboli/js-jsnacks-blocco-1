@@ -1,0 +1,16 @@
+#moneta {
+  width: 100px;
+  height: 100px;
+}
+
+.testa {
+  background-image: url(../img/testa.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.croce {
+  background-image: url(../img/croce.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
